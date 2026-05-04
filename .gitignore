@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+spec.pdf
+Notice.txt
+PROJECT_STATUS.md
+ideas/
+tools/
+PuzzleCourier_Backup/
